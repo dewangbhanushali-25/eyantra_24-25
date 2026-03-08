@@ -1,0 +1,9 @@
+bool receive
+bool drop
+<<<<<<< HEAD
+=======
+string box_name
+>>>>>>> 0106fe2 (New changes)
+---
+bool success   # indicate successful run of triggered service
+string message # Box name 

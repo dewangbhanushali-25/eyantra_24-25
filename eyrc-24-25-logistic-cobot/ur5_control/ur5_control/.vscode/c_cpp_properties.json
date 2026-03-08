@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/anees/ros2_ws/install/py_interfaces/include/**",
+        "/home/anees/ros2_ws/install/custom_interface/include/**",
+        "/home/anees/ros2_ws/install/assg_interface/include/**",
+        "/home/anees/e_yantra_ws/install/servo_msgs/include/**",
+        "/home/anees/e_yantra_ws/install/realsense_gazebo_plugin/include/**",
+        "/home/anees/e_yantra_ws/install/payload_service/include/**",
+        "/home/anees/e_yantra_ws/install/linkattacher_msgs/include/**",
+        "/home/anees/e_yantra_ws/install/ebot_docking/include/**",
+        "/home/anees/ros2_assignments/install/capstone_interfaces/include/**",
+        "/home/anees/ros2_assignments/install/assg_interface/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/anees/e_yantra_ws/src/eyrc-24-25-logistic-cobot/realsense_gazebo_plugin/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
